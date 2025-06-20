@@ -1,0 +1,12 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+openai_skey.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploaded files
+uploaded_*.pdf
+openai_api_key.txt
